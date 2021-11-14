@@ -29,4 +29,3 @@ int random_r(){
 
     return round(ud(gen));
 }
-
