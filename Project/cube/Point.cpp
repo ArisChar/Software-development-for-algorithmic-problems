@@ -70,7 +70,7 @@ vector<double> Point::getCoord() { return values; }
 void Point::setVal(int pos ,int val) { this->values[pos] = val;}
 
 int Point::getCluster_ID() { return clusterId; }
-
+ 
 void Point::print_point(){
     cout<<"To point me id "<<pointId <<" exei autes ths diastaseis:"<<endl;
 
