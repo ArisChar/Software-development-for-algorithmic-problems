@@ -17,7 +17,7 @@
 #include <map>
 
 using namespace std;
-
+ 
 /*-------------------------Point_Class--------------------------*/
 
 class Point {
