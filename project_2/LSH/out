@@ -1,0 +1,800 @@
+Query: 1
+Nearest neighbor-1: 1885
+DistanceLSH:: 313.077
+Time of LSH is: 0.0006332
+DistanceTrue: 276.782
+True ID of point is: 2177
+True Time is: 0.0592051
+-------------------------
+Query: 2
+Nearest neighbor-1: 3137
+DistanceLSH:: 264.932
+Time of LSH is: 0.0015162
+DistanceTrue: 256.852
+True ID of point is: 2782
+True Time is: 0.050199
+-------------------------
+Query: 3
+Nearest neighbor-1: 2708
+DistanceLSH:: 206.737
+Time of LSH is: 0.0010343
+DistanceTrue: 206.737
+True ID of point is: 2708
+True Time is: 0.0511341
+-------------------------
+Query: 4
+Nearest neighbor-1: 9577
+DistanceLSH:: 258.706
+Time of LSH is: 0.0009775
+DistanceTrue: 215.177
+True ID of point is: 9844
+True Time is: 0.0501073
+-------------------------
+Query: 5
+Nearest neighbor-1: 7605
+DistanceLSH:: 291.379
+Time of LSH is: 0.0005519
+DistanceTrue: 250.509
+True ID of point is: 4720
+True Time is: 0.050377
+-------------------------
+Query: 6
+Nearest neighbor-1: 2792
+DistanceLSH:: 339.168
+Time of LSH is: 0.0011371
+DistanceTrue: 275.151
+True ID of point is: 1098
+True Time is: 0.0495198
+-------------------------
+Query: 7
+Nearest neighbor-1: 2436
+DistanceLSH:: 292.274
+Time of LSH is: 0.0007377
+DistanceTrue: 246.609
+True ID of point is: 2457
+True Time is: 0.0504484
+-------------------------
+Query: 8
+Nearest neighbor-1: 7587
+DistanceLSH:: 210.82
+Time of LSH is: 0.0009987
+DistanceTrue: 173.948
+True ID of point is: 5448
+True Time is: 0.0505362
+-------------------------
+Query: 9
+Nearest neighbor-1: 1693
+DistanceLSH:: 300.488
+Time of LSH is: 0.0012203
+DistanceTrue: 248.473
+True ID of point is: 9629
+True Time is: 0.0535047
+-------------------------
+Query: 10
+Nearest neighbor-1: 5405
+DistanceLSH:: 280.877
+Time of LSH is: 0.0007411
+DistanceTrue: 250.014
+True ID of point is: 4765
+True Time is: 0.0519294
+-------------------------
+Query: 11
+Nearest neighbor-1: 8028
+DistanceLSH:: 322.267
+Time of LSH is: 0.0021825
+DistanceTrue: 293.883
+True ID of point is: 1219
+True Time is: 0.0496454
+-------------------------
+Query: 12
+Nearest neighbor-1: 4763
+DistanceLSH:: 206.608
+Time of LSH is: 0.0017655
+DistanceTrue: 172.163
+True ID of point is: 4698
+True Time is: 0.0506325
+-------------------------
+Query: 13
+Nearest neighbor-1: 1833
+DistanceLSH:: 271.396
+Time of LSH is: 0.001523
+DistanceTrue: 238.55
+True ID of point is: 2114
+True Time is: 0.0501111
+-------------------------
+Query: 14
+Nearest neighbor-1: 9664
+DistanceLSH:: 268.373
+Time of LSH is: 0.0010186
+DistanceTrue: 244.677
+True ID of point is: 3610
+True Time is: 0.0492592
+-------------------------
+Query: 15
+Nearest neighbor-1: 1653
+DistanceLSH:: 315.276
+Time of LSH is: 0.0011513
+DistanceTrue: 273.317
+True ID of point is: 798
+True Time is: 0.0492564
+-------------------------
+Query: 16
+Nearest neighbor-1: 4571
+DistanceLSH:: 276.371
+Time of LSH is: 0.0007754
+DistanceTrue: 253.683
+True ID of point is: 5327
+True Time is: 0.0498795
+-------------------------
+Query: 17
+Nearest neighbor-1: 8548
+DistanceLSH:: 255.19
+Time of LSH is: 0.0014619
+DistanceTrue: 248.2
+True ID of point is: 3830
+True Time is: 0.048931
+-------------------------
+Query: 18
+Nearest neighbor-1: 1293
+DistanceLSH:: 263.279
+Time of LSH is: 0.0008184
+DistanceTrue: 254.635
+True ID of point is: 4097
+True Time is: 0.0487018
+-------------------------
+Query: 19
+Nearest neighbor-1: 2394
+DistanceLSH:: 276.523
+Time of LSH is: 0.0008632
+DistanceTrue: 266.889
+True ID of point is: 904
+True Time is: 0.049312
+-------------------------
+Query: 20
+Nearest neighbor-1: 1700
+DistanceLSH:: 224.751
+Time of LSH is: 0.0014187
+DistanceTrue: 224.751
+True ID of point is: 1700
+True Time is: 0.0493093
+-------------------------
+Query: 21
+Nearest neighbor-1: 7028
+DistanceLSH:: 196.008
+Time of LSH is: 0.0013191
+DistanceTrue: 192.984
+True ID of point is: 7463
+True Time is: 0.0493426
+-------------------------
+Query: 22
+Nearest neighbor-1: 4491
+DistanceLSH:: 80.8455
+Time of LSH is: 0.0012486
+DistanceTrue: 80.8455
+True ID of point is: 4491
+True Time is: 0.0497341
+-------------------------
+Query: 23
+Nearest neighbor-1: 4553
+DistanceLSH:: 209.75
+Time of LSH is: 0.0007134
+DistanceTrue: 173.052
+True ID of point is: 4958
+True Time is: 0.0500833
+-------------------------
+Query: 24
+Nearest neighbor-1: 5289
+DistanceLSH:: 269.336
+Time of LSH is: 0.0004173
+DistanceTrue: 253.941
+True ID of point is: 8336
+True Time is: 0.0504947
+-------------------------
+Query: 25
+Nearest neighbor-1: 4631
+DistanceLSH:: 154.227
+Time of LSH is: 0.001146
+DistanceTrue: 154.227
+True ID of point is: 4631
+True Time is: 0.0498982
+-------------------------
+Query: 26
+Nearest neighbor-1: 4560
+DistanceLSH:: 330.853
+Time of LSH is: 0.0011829
+DistanceTrue: 271.61
+True ID of point is: 5301
+True Time is: 0.0505032
+-------------------------
+Query: 27
+Nearest neighbor-1: 8503
+DistanceLSH:: 225.599
+Time of LSH is: 0.0008587
+DistanceTrue: 183.442
+True ID of point is: 9900
+True Time is: 0.0504876
+-------------------------
+Query: 28
+Nearest neighbor-1: 5408
+DistanceLSH:: 232.508
+Time of LSH is: 0.0005951
+DistanceTrue: 175.516
+True ID of point is: 5964
+True Time is: 0.0507718
+-------------------------
+Query: 29
+Nearest neighbor-1: 4462
+DistanceLSH:: 229.828
+Time of LSH is: 0.0009153
+DistanceTrue: 224.86
+True ID of point is: 4473
+True Time is: 0.0496993
+-------------------------
+Query: 30
+Nearest neighbor-1: 5454
+DistanceLSH:: 125.379
+Time of LSH is: 0.0013688
+DistanceTrue: 125.379
+True ID of point is: 5454
+True Time is: 0.0498991
+-------------------------
+Query: 31
+Nearest neighbor-1: 5653
+DistanceLSH:: 279.165
+Time of LSH is: 0.0007313
+DistanceTrue: 265.377
+True ID of point is: 5208
+True Time is: 0.0497505
+-------------------------
+Query: 32
+Nearest neighbor-1: 5560
+DistanceLSH:: 109.192
+Time of LSH is: 0.0009527
+DistanceTrue: 109.192
+True ID of point is: 5560
+True Time is: 0.0496318
+-------------------------
+Query: 33
+Nearest neighbor-1: 5301
+DistanceLSH:: 187.563
+Time of LSH is: 0.0008741
+DistanceTrue: 187.563
+True ID of point is: 5301
+True Time is: 0.0485103
+-------------------------
+Query: 34
+Nearest neighbor-1: 688
+DistanceLSH:: 359.63
+Time of LSH is: 0.0010054
+DistanceTrue: 328.279
+True ID of point is: 7278
+True Time is: 0.0493683
+-------------------------
+Query: 35
+Nearest neighbor-1: 5716
+DistanceLSH:: 274.829
+Time of LSH is: 0.0006975
+DistanceTrue: 248.554
+True ID of point is: 7059
+True Time is: 0.0491654
+-------------------------
+Query: 36
+Nearest neighbor-1: 5842
+DistanceLSH:: 120.975
+Time of LSH is: 0.0009569
+DistanceTrue: 120.975
+True ID of point is: 5842
+True Time is: 0.0492354
+-------------------------
+Query: 37
+Nearest neighbor-1: 5843
+DistanceLSH:: 111.459
+Time of LSH is: 0.0011499
+DistanceTrue: 111.459
+True ID of point is: 5843
+True Time is: 0.0489444
+-------------------------
+Query: 38
+Nearest neighbor-1: 5185
+DistanceLSH:: 166.856
+Time of LSH is: 0.0009658
+DistanceTrue: 166.856
+True ID of point is: 5185
+True Time is: 0.0492844
+-------------------------
+Query: 39
+Nearest neighbor-1: 5501
+DistanceLSH:: 159.245
+Time of LSH is: 0.0013016
+DistanceTrue: 156.359
+True ID of point is: 5024
+True Time is: 0.0500177
+-------------------------
+Query: 40
+Nearest neighbor-1: 9842
+DistanceLSH:: 210.768
+Time of LSH is: 0.0008796
+DistanceTrue: 193.977
+True ID of point is: 4678
+True Time is: 0.0498805
+-------------------------
+Query: 41
+Nearest neighbor-1: 4774
+DistanceLSH:: 185.373
+Time of LSH is: 0.0015204
+DistanceTrue: 153.564
+True ID of point is: 8308
+True Time is: 0.0498621
+-------------------------
+Query: 42
+Nearest neighbor-1: 6615
+DistanceLSH:: 223.663
+Time of LSH is: 0.0005298
+DistanceTrue: 200.494
+True ID of point is: 4644
+True Time is: 0.0489101
+-------------------------
+Query: 43
+Nearest neighbor-1: 8663
+DistanceLSH:: 289.948
+Time of LSH is: 0.0003481
+DistanceTrue: 236.772
+True ID of point is: 5225
+True Time is: 0.0493453
+-------------------------
+Query: 44
+Nearest neighbor-1: 2917
+DistanceLSH:: 301.7
+Time of LSH is: 0.0007177
+DistanceTrue: 165.339
+True ID of point is: 6303
+True Time is: 0.0494375
+-------------------------
+Query: 45
+Nearest neighbor-1: 5149
+DistanceLSH:: 267.015
+Time of LSH is: 0.0017218
+DistanceTrue: 256.353
+True ID of point is: 5429
+True Time is: 0.0495168
+-------------------------
+Query: 46
+Nearest neighbor-1: 4707
+DistanceLSH:: 283.734
+Time of LSH is: 0.0008389
+DistanceTrue: 261.362
+True ID of point is: 8980
+True Time is: 0.0488904
+-------------------------
+Query: 47
+Nearest neighbor-1: 5881
+DistanceLSH:: 99.6293
+Time of LSH is: 0.0011943
+DistanceTrue: 99.6293
+True ID of point is: 5881
+True Time is: 0.0492396
+-------------------------
+Query: 48
+Nearest neighbor-1: 1885
+DistanceLSH:: 334.818
+Time of LSH is: 0.0009183
+DistanceTrue: 294.394
+True ID of point is: 5642
+True Time is: 0.0491193
+-------------------------
+Query: 49
+Nearest neighbor-1: 2189
+DistanceLSH:: 330.967
+Time of LSH is: 0.0009211
+DistanceTrue: 155.763
+True ID of point is: 5214
+True Time is: 0.0497217
+-------------------------
+Query: 50
+Nearest neighbor-1: 32
+DistanceLSH:: 243.006
+Time of LSH is: 0.0005783
+DistanceTrue: 128.783
+True ID of point is: 5085
+True Time is: 0.048744
+-------------------------
+Query: 51
+Nearest neighbor-1: 1301
+DistanceLSH:: 312.26
+Time of LSH is: 0.0009903
+DistanceTrue: 181.141
+True ID of point is: 5654
+True Time is: 0.0498738
+-------------------------
+Query: 52
+Nearest neighbor-1: 9842
+DistanceLSH:: 258.139
+Time of LSH is: 0.0007676
+DistanceTrue: 130.813
+True ID of point is: 6124
+True Time is: 0.0502749
+-------------------------
+Query: 53
+Nearest neighbor-1: 964
+DistanceLSH:: 252.28
+Time of LSH is: 0.0014729
+DistanceTrue: 198.776
+True ID of point is: 5674
+True Time is: 0.0490503
+-------------------------
+Query: 54
+Nearest neighbor-1: 7910
+DistanceLSH:: 258.67
+Time of LSH is: 0.0008606
+DistanceTrue: 194.178
+True ID of point is: 8613
+True Time is: 0.0490201
+-------------------------
+Query: 55
+Nearest neighbor-1: 6159
+DistanceLSH:: 159.308
+Time of LSH is: 0.0010488
+DistanceTrue: 159.308
+True ID of point is: 6159
+True Time is: 0.0495814
+-------------------------
+Query: 56
+Nearest neighbor-1: 6000
+DistanceLSH:: 212.17
+Time of LSH is: 0.0011075
+DistanceTrue: 184.043
+True ID of point is: 5831
+True Time is: 0.0495803
+-------------------------
+Query: 57
+Nearest neighbor-1: 4904
+DistanceLSH:: 190.735
+Time of LSH is: 0.0010755
+DistanceTrue: 190.735
+True ID of point is: 4904
+True Time is: 0.0492898
+-------------------------
+Query: 58
+Nearest neighbor-1: 7375
+DistanceLSH:: 227.295
+Time of LSH is: 0.0014315
+DistanceTrue: 167.147
+True ID of point is: 5212
+True Time is: 0.049522
+-------------------------
+Query: 59
+Nearest neighbor-1: 7238
+DistanceLSH:: 65.7419
+Time of LSH is: 0.0018229
+DistanceTrue: 65.7419
+True ID of point is: 7238
+True Time is: 0.0494353
+-------------------------
+Query: 60
+Nearest neighbor-1: 7172
+DistanceLSH:: 140.46
+Time of LSH is: 0.0012917
+DistanceTrue: 114.416
+True ID of point is: 6835
+True Time is: 0.0500544
+-------------------------
+Query: 61
+Nearest neighbor-1: 5279
+DistanceLSH:: 170.309
+Time of LSH is: 0.0011209
+DistanceTrue: 170.309
+True ID of point is: 5279
+True Time is: 0.0493211
+-------------------------
+Query: 62
+Nearest neighbor-1: 8565
+DistanceLSH:: 151.993
+Time of LSH is: 0.0005591
+DistanceTrue: 140.357
+True ID of point is: 8403
+True Time is: 0.0486622
+-------------------------
+Query: 63
+Nearest neighbor-1: 6561
+DistanceLSH:: 131.651
+Time of LSH is: 0.0006886
+DistanceTrue: 131.651
+True ID of point is: 6561
+True Time is: 0.049904
+-------------------------
+Query: 64
+Nearest neighbor-1: 6322
+DistanceLSH:: 94.9158
+Time of LSH is: 0.0007632
+DistanceTrue: 94.9158
+True ID of point is: 6322
+True Time is: 0.0497728
+-------------------------
+Query: 65
+Nearest neighbor-1: 5636
+DistanceLSH:: 138.275
+Time of LSH is: 0.0008532
+DistanceTrue: 138.275
+True ID of point is: 5636
+True Time is: 0.0485114
+-------------------------
+Query: 66
+Nearest neighbor-1: 9225
+DistanceLSH:: 235.777
+Time of LSH is: 0.000874
+DistanceTrue: 173.381
+True ID of point is: 6406
+True Time is: 0.0492757
+-------------------------
+Query: 67
+Nearest neighbor-1: 7759
+DistanceLSH:: 241.448
+Time of LSH is: 0.0014851
+DistanceTrue: 200.866
+True ID of point is: 5391
+True Time is: 0.049232
+-------------------------
+Query: 68
+Nearest neighbor-1: 7882
+DistanceLSH:: 251.036
+Time of LSH is: 0.0006903
+DistanceTrue: 224.225
+True ID of point is: 6858
+True Time is: 0.0498289
+-------------------------
+Query: 69
+Nearest neighbor-1: 9894
+DistanceLSH:: 202.771
+Time of LSH is: 0.0018198
+DistanceTrue: 201.311
+True ID of point is: 5200
+True Time is: 0.0491968
+-------------------------
+Query: 70
+Nearest neighbor-1: 8147
+DistanceLSH:: 301.641
+Time of LSH is: 0.0011537
+DistanceTrue: 266.813
+True ID of point is: 5878
+True Time is: 0.0488985
+-------------------------
+Query: 71
+Nearest neighbor-1: 6125
+DistanceLSH:: 46.8188
+Time of LSH is: 0.0007854
+DistanceTrue: 46.8188
+True ID of point is: 6125
+True Time is: 0.0493637
+-------------------------
+Query: 72
+Nearest neighbor-1: 5457
+DistanceLSH:: 289.024
+Time of LSH is: 0.0005423
+DistanceTrue: 193.675
+True ID of point is: 5827
+True Time is: 0.0493029
+-------------------------
+Query: 73
+Nearest neighbor-1: 619
+DistanceLSH:: 352.136
+Time of LSH is: 0.0005003
+DistanceTrue: 303.211
+True ID of point is: 6610
+True Time is: 0.0491684
+-------------------------
+Query: 74
+Nearest neighbor-1: 8355
+DistanceLSH:: 341.246
+Time of LSH is: 0.0011348
+DistanceTrue: 230.458
+True ID of point is: 6854
+True Time is: 0.0487177
+-------------------------
+Query: 75
+Nearest neighbor-1: 7365
+DistanceLSH:: 131.095
+Time of LSH is: 0.0012945
+DistanceTrue: 131.095
+True ID of point is: 7365
+True Time is: 0.0493527
+-------------------------
+Query: 76
+Nearest neighbor-1: 7617
+DistanceLSH:: 254.769
+Time of LSH is: 0.0008126
+DistanceTrue: 212.061
+True ID of point is: 6554
+True Time is: 0.0500077
+-------------------------
+Query: 77
+Nearest neighbor-1: 8351
+DistanceLSH:: 296.621
+Time of LSH is: 0.001229
+DistanceTrue: 251.257
+True ID of point is: 7904
+True Time is: 0.0497329
+-------------------------
+Query: 78
+Nearest neighbor-1: 2093
+DistanceLSH:: 317.909
+Time of LSH is: 0.0011151
+DistanceTrue: 293.716
+True ID of point is: 8579
+True Time is: 0.0493942
+-------------------------
+Query: 79
+Nearest neighbor-1: 1903
+DistanceLSH:: 278.083
+Time of LSH is: 0.0005052
+DistanceTrue: 226.868
+True ID of point is: 9209
+True Time is: 0.0492767
+-------------------------
+Query: 80
+Nearest neighbor-1: 6071
+DistanceLSH:: 148.165
+Time of LSH is: 0.0016758
+DistanceTrue: 148.165
+True ID of point is: 6071
+True Time is: 0.049581
+-------------------------
+Query: 81
+Nearest neighbor-1: 7452
+DistanceLSH:: 146.311
+Time of LSH is: 0.0006449
+DistanceTrue: 146.311
+True ID of point is: 7452
+True Time is: 0.0492096
+-------------------------
+Query: 82
+Nearest neighbor-1: 4219
+DistanceLSH:: 306.946
+Time of LSH is: 0.001165
+DistanceTrue: 276.819
+True ID of point is: 3087
+True Time is: 0.0491675
+-------------------------
+Query: 83
+Nearest neighbor-1: 9165
+DistanceLSH:: 271.982
+Time of LSH is: 0.0008049
+DistanceTrue: 271.982
+True ID of point is: 9165
+True Time is: 0.0493683
+-------------------------
+Query: 84
+Nearest neighbor-1: 8048
+DistanceLSH:: 254.34
+Time of LSH is: 0.0008178
+DistanceTrue: 181.607
+True ID of point is: 6006
+True Time is: 0.0501968
+-------------------------
+Query: 85
+Nearest neighbor-1: 3404
+DistanceLSH:: 250.769
+Time of LSH is: 0.0017778
+DistanceTrue: 192.678
+True ID of point is: 8895
+True Time is: 0.0491443
+-------------------------
+Query: 86
+Nearest neighbor-1: 8826
+DistanceLSH:: 447.582
+Time of LSH is: 0.000498
+DistanceTrue: 285.107
+True ID of point is: 8355
+True Time is: 0.0489449
+-------------------------
+Query: 87
+Nearest neighbor-1: 9152
+DistanceLSH:: 224.907
+Time of LSH is: 0.0007816
+DistanceTrue: 224.907
+True ID of point is: 9152
+True Time is: 0.0493846
+-------------------------
+Query: 88
+Nearest neighbor-1: 7723
+DistanceLSH:: 123.56
+Time of LSH is: 0.0009578
+DistanceTrue: 123.56
+True ID of point is: 7723
+True Time is: 0.0502061
+-------------------------
+Query: 89
+Nearest neighbor-1: 7099
+DistanceLSH:: 75.08
+Time of LSH is: 0.0010714
+DistanceTrue: 75.08
+True ID of point is: 7099
+True Time is: 0.0488053
+-------------------------
+Query: 90
+Nearest neighbor-1: 7628
+DistanceLSH:: 114.534
+Time of LSH is: 0.0011684
+DistanceTrue: 114.534
+True ID of point is: 7628
+True Time is: 0.0489102
+-------------------------
+Query: 91
+Nearest neighbor-1: 9259
+DistanceLSH:: 50.4579
+Time of LSH is: 0.0021031
+DistanceTrue: 50.4579
+True ID of point is: 9259
+True Time is: 0.0500325
+-------------------------
+Query: 92
+Nearest neighbor-1: 529
+DistanceLSH:: 359.508
+Time of LSH is: 0.0005024
+DistanceTrue: 298.027
+True ID of point is: 8897
+True Time is: 0.0498544
+-------------------------
+Query: 93
+Nearest neighbor-1: 1060
+DistanceLSH:: 313.22
+Time of LSH is: 0.0009548
+DistanceTrue: 141.464
+True ID of point is: 8357
+True Time is: 0.0489748
+-------------------------
+Query: 94
+Nearest neighbor-1: 1089
+DistanceLSH:: 258.339
+Time of LSH is: 0.0021638
+DistanceTrue: 234.774
+True ID of point is: 8979
+True Time is: 0.0500251
+-------------------------
+Query: 95
+Nearest neighbor-1: 7487
+DistanceLSH:: 256.515
+Time of LSH is: 0.0011387
+DistanceTrue: 160.571
+True ID of point is: 8420
+True Time is: 0.0495264
+-------------------------
+Query: 96
+Nearest neighbor-1: 5591
+DistanceLSH:: 355.384
+Time of LSH is: 0.0012869
+DistanceTrue: 305.392
+True ID of point is: 9206
+True Time is: 0.0502924
+-------------------------
+Query: 97
+Nearest neighbor-1: 903
+DistanceLSH:: 330.581
+Time of LSH is: 0.0012135
+DistanceTrue: 285.79
+True ID of point is: 7513
+True Time is: 0.0509373
+-------------------------
+Query: 98
+Nearest neighbor-1: 7428
+DistanceLSH:: 360.516
+Time of LSH is: 0.0006054
+DistanceTrue: 233.532
+True ID of point is: 8826
+True Time is: 0.0487959
+-------------------------
+Query: 99
+Nearest neighbor-1: 5461
+DistanceLSH:: 137.43
+Time of LSH is: 0.0007778
+DistanceTrue: 137.43
+True ID of point is: 5461
+True Time is: 0.0493407
+-------------------------
+Query: 100
+Nearest neighbor-1: 8083
+DistanceLSH:: 184.613
+Time of LSH is: 0.0008463
+DistanceTrue: 184.613
+True ID of point is: 8083
+True Time is: 0.0509313
+-------------------------
