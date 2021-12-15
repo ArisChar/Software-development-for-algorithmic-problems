@@ -111,7 +111,7 @@ int open_files(ifstream& in_file, ifstream& q_file, ofstream& out_file, string& 
 		cout << "Didn't find input file" << endl;
 	    return -1;
     }
-
+    
     q_file.open(query_file);
     if(!q_file){
 		cout << "Didn't find query file" << endl;
