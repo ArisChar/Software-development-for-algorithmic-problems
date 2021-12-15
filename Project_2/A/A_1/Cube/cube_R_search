@@ -1,0 +1,156 @@
+--------------------------------
+Query: 1
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 74
+Distance: 120.737
+Nearest neighbor -2 id: 87
+Distance: 206.878
+
+ Total time taken: 0.0004993
+
+--------------------------------
+Query: 2
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 13
+Distance: 451.61
+Nearest neighbor -2 id: 5
+Distance: 464.56
+
+ Total time taken: 0.0004491
+
+--------------------------------
+Query: 3
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 27
+Distance: 33.7924
+Nearest neighbor -2 id: 60
+Distance: 42.7746
+Nearest neighbor -3 id: 28
+Distance: 46.8801
+Nearest neighbor -4 id: 84
+Distance: 57.3451
+Nearest neighbor -5 id: 65
+Distance: 76.8008
+Nearest neighbor -6 id: 99
+Distance: 111.126
+Nearest neighbor -7 id: 77
+Distance: 205.586
+
+ Total time taken: 0.0006404
+
+--------------------------------
+Query: 4
+Nearest point within range R10000: 
+
+ Total time taken: 0.000374
+
+--------------------------------
+Query: 5
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 19
+Distance: 31.1113
+Nearest neighbor -2 id: 62
+Distance: 36.0943
+Nearest neighbor -3 id: 31
+Distance: 38.7866
+Nearest neighbor -4 id: 7
+Distance: 44.9512
+Nearest neighbor -5 id: 14
+Distance: 63.1563
+Nearest neighbor -6 id: 25
+Distance: 73.6412
+Nearest neighbor -7 id: 29
+Distance: 79.5086
+Nearest neighbor -8 id: 15
+Distance: 95.6995
+Nearest neighbor -9 id: 34
+Distance: 114.747
+Nearest neighbor -10 id: 48
+Distance: 115.471
+
+ Total time taken: 0.0004878
+
+--------------------------------
+Query: 6
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 14
+Distance: 28.6686
+Nearest neighbor -2 id: 7
+Distance: 53.4355
+Nearest neighbor -3 id: 62
+Distance: 55.5083
+Nearest neighbor -4 id: 19
+Distance: 56.9022
+Nearest neighbor -5 id: 31
+Distance: 65.9882
+Nearest neighbor -6 id: 25
+Distance: 78.7844
+Nearest neighbor -7 id: 29
+Distance: 96.67
+Nearest neighbor -8 id: 15
+Distance: 110.8
+Nearest neighbor -9 id: 48
+Distance: 124.825
+Nearest neighbor -10 id: 34
+Distance: 128.49
+
+ Total time taken: 0.0004816
+
+--------------------------------
+Query: 7
+Nearest point within range R10000: 
+
+ Total time taken: 0.0003739
+
+--------------------------------
+Query: 8
+Nearest point within range R10000: 
+
+ Total time taken: 0.0003728
+
+--------------------------------
+Query: 9
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 84
+Distance: 33.3724
+Nearest neighbor -2 id: 28
+Distance: 37.3029
+Nearest neighbor -3 id: 60
+Distance: 60.3412
+Nearest neighbor -4 id: 99
+Distance: 70.5817
+Nearest neighbor -5 id: 27
+Distance: 72.6879
+Nearest neighbor -6 id: 65
+Distance: 75.9349
+Nearest neighbor -7 id: 77
+Distance: 162.464
+
+ Total time taken: 0.0006382
+
+--------------------------------
+Query: 10
+Nearest point within range R10000: 
+Nearest neighbor -1 id: 93
+Distance: 10.9989
+Nearest neighbor -2 id: 35
+Distance: 15.7212
+Nearest neighbor -3 id: 89
+Distance: 16.1327
+Nearest neighbor -4 id: 88
+Distance: 22.9918
+Nearest neighbor -5 id: 36
+Distance: 56.0939
+Nearest neighbor -6 id: 68
+Distance: 66.8215
+Nearest neighbor -7 id: 58
+Distance: 85.6912
+Nearest neighbor -8 id: 52
+Distance: 443.997
+Nearest neighbor -9 id: 75
+Distance: 460.998
+Nearest neighbor -10 id: 66
+Distance: 463.836
+
+ Total time taken: 0.0004897
+

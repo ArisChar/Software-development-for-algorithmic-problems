@@ -22,11 +22,10 @@ long long int g_hash::g_function(Point& p, int n, int pos){
     // Get the random combination of hi’s
 
     for(int i=0; i<this->k; i++){
-        sum += this->r[i] * this->hashTable[i].hash_function(p);
-        // sum += modulo((this->r[i] * this->hashTable[i].hash_function(p)), M);
+        //sum += this->r[i] * this->hashTable[i].hash_function(p);
+        sum += modulo((this->r[i] * this->hashTable[i].hash_function(p)), M);
     }
-    // ayto se sxolia
-    sum = modulo(sum, M);
+    //sum = modulo(sum, M);
 
     // Store ID(p) to point
     p.set_ID(sum, pos);

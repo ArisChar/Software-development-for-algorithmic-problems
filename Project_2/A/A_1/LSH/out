@@ -1,80 +1,80 @@
 Query: 1
 Nearest neighbor-1: 39
 DistanceLSH:: 78.0146
-Time of LSH is: 0.0020069
+Time of LSH is: 0.0012327
 DistanceTrue: 78.0146
 True ID of point is: 39
-True Time is: 0.0026536
+True Time is: 0.0026743
 -------------------------
 Query: 2
 Nearest neighbor-1: 24
 DistanceLSH:: 259.051
-Time of LSH is: 0.0017364
+Time of LSH is: 0.0012756
 DistanceTrue: 259.051
 True ID of point is: 24
-True Time is: 0.0020994
+True Time is: 0.0020981
 -------------------------
 Query: 3
 Nearest neighbor-1: 27
 DistanceLSH:: 33.7924
-Time of LSH is: 0.0018035
+Time of LSH is: 0.0018301
 DistanceTrue: 33.7924
 True ID of point is: 27
-True Time is: 0.0021317
+True Time is: 0.0021418
 -------------------------
 Query: 4
-Nearest neighbor-1: 12
-DistanceLSH:: 323.98
-Time of LSH is: 0.0006178
+Nearest neighbor-1: 57
+DistanceLSH:: 421.637
+Time of LSH is: 0.000994
 DistanceTrue: 323.98
 True ID of point is: 12
-True Time is: 0.0020656
+True Time is: 0.0020565
 -------------------------
 Query: 5
 Nearest neighbor-1: 64
 DistanceLSH:: 24.9236
-Time of LSH is: 0.002146
+Time of LSH is: 0.0017198
 DistanceTrue: 24.9236
 True ID of point is: 64
-True Time is: 0.0021576
+True Time is: 0.0021635
 -------------------------
 Query: 6
 Nearest neighbor-1: 14
 DistanceLSH:: 28.6686
-Time of LSH is: 0.0020183
+Time of LSH is: 0.0013976
 DistanceTrue: 28.6686
 True ID of point is: 14
-True Time is: 0.0021574
+True Time is: 0.0021559
 -------------------------
 Query: 7
 Nearest neighbor-1: 83
 DistanceLSH:: 192.55
-Time of LSH is: 0.0005519
+Time of LSH is: 0.0010712
 DistanceTrue: 192.55
 True ID of point is: 83
-True Time is: 0.0021392
+True Time is: 0.0021369
 -------------------------
 Query: 8
 Nearest neighbor-1: 39
 DistanceLSH:: 166.735
-Time of LSH is: 0.0010778
+Time of LSH is: 0.0016458
 DistanceTrue: 166.735
 True ID of point is: 39
-True Time is: 0.0020915
+True Time is: 0.0020712
 -------------------------
 Query: 9
 Nearest neighbor-1: 84
 DistanceLSH:: 33.3724
-Time of LSH is: 0.0017147
+Time of LSH is: 0.0019323
 DistanceTrue: 33.3724
 True ID of point is: 84
-True Time is: 0.0021384
+True Time is: 0.002121
 -------------------------
 Query: 10
 Nearest neighbor-1: 93
 DistanceLSH:: 10.9989
-Time of LSH is: 0.0020871
+Time of LSH is: 0.0018597
 DistanceTrue: 10.9989
 True ID of point is: 93
-True Time is: 0.0021043
+True Time is: 0.0020979
 -------------------------
