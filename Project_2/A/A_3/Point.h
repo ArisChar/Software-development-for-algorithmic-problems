@@ -27,8 +27,9 @@ class Point {
         int dimensions;             // Dimension of point
         vector<long long int> IDs;  // Vector that stores the ID(p) from  page 22 of slides
         vector<double> values;      // Vector with that holds the coordinates of a point
-        vector<vector<double>> curve;
-        vector<double> lineToVec2(string &line ,int &id);
+        vector<double> curve;
+
+        vector<double> lineToVec2(string &line);
         vector<double> curveToVec(string &line);
         
 
@@ -46,7 +47,10 @@ class Point {
         vector<double> getCoord();              // Returns the coordinates of the point
         void print_point();
         void set_value(double value, int index);
-        void CreateTuple();
+        void EraseVal(int index);
+        void replace(vector<double>& c);
+        vector<double> getCurve();
+        void setCurve(vector<double>);
         static int Geniko_id;
 };
 

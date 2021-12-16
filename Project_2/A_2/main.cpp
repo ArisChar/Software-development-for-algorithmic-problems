@@ -62,16 +62,40 @@ void Padding(vector<Point>& my_points){
     }
 }
 
-// double DiscreteFrechet(){
-//     re
-// }
+// double DiscreteFrechet(vector<vector<double>> a, vector<vector<double>> b){
+//     vector<vector<double>> dists;
+//     dists.resize(a.size(), vector<double>((b.size())));
 
+//     for (int i = 0; i < a.size(); ++i) {
+//         for (int j = 0; j < b.size(); ++j) {
+//             dists[i][j] = euc_dist(a[i],b[j]); 
+//         }
+//     }
+
+//     vector<vector<double>> c;
+//     c.resize(a.size(), vector<double>((b.size())));
+
+//     for (int i = 0; i < a.size(); ++i) {
+//         for (int j = 0; j < b.size(); ++j) {
+//             if(i == 0 && j == 0){
+//                 c[i][j] = dists[i][j];
+//             }else if (i == 0 && j > 0){
+//                 c[i][j] = max(c[i][j-1],dists[i][j]);
+//             }else if (i > 0 and j == 0){
+//                 c[i][j] = max(c[i-1][j],dists[i][j]);
+//             }else{
+//                 c[i][j] = max(min(min(c[i-1][j], c[i-1][j-1]), c[i][j-1]), dists[i][j]);
+//             }
+//         }
+//     }    
+
+//     return sqrt(c[a.size()-1][b.size()-1]);
+// }
 
 void To2d(vector<Point>& my_points){
     Snapping(my_points);
     Padding(my_points);
 }
-
 
 int main(int argc, char **argv){
 
@@ -130,33 +154,37 @@ int main(int argc, char **argv){
         <<" | "<<"N = "<<N
         <<" | "<<"R = "<<R<<" |"<<endl;
 
-    // lsh l(k,L,dim,size);
-    // l.lsh_tables_create(all_points);
+    To2d(all_points);
+    To2d(q_points);
 
-    // l.query_search(q_points, all_points, out_file);
+    lsh l(k,L,2*dim,size);
+    l.lsh_tables_create(all_points);
+    l.query_search(q_points, all_points, out_file);
 
-    // ofstream range_out; 
-    // string range_s = "range_search";
-    // range_out.open(range_s);
-    // l.query_range_search(q_points, all_points, R, range_out);
+    ofstream range_out; 
+    string range_s = "range_search";
+    range_out.open(range_s);
 
-    // if(N > 1){
-    //     ofstream N_near_out; 
-    //     string N_near_file = "N_nearest";
-    //     N_near_out.open(N_near_file);
-    //     l.query_search_N(q_points, all_points, N, N_near_out);
+    l.query_range_search(q_points, all_points, R, range_out);
 
-    //     N_near_out.close();
-    // }
+    if(N > 1){
+        ofstream N_near_out; 
+        string N_near_file = "N_nearest";
+        N_near_out.open(N_near_file);
+        l.query_search_N(q_points, all_points, N, N_near_out);
+        N_near_out.close();
+    }
 
-    all_points[0].print_point();
+    // vector<vector<double>> c = all_points[0].getCurve();
+    // vector<vector<double>> d = q_points[0].getCurve();
+    // cout<<DiscreteFrechet(c,d);
     // To2d(all_points);
     // cout<<endl;
     // all_points[0].print_point();
     // cout<<endl;
 
     close_files(in_file, q_file, out_file);
-    //range_out.close();
+    range_out.close();
     
     return 0;
 }

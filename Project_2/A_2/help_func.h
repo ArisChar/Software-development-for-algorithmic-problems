@@ -20,6 +20,7 @@
 #include "Point.h"
 
 using namespace std;
+double DiscreteFrechet(vector<vector<double>> a, vector<vector<double>> b);
 
 // Return non negative modulo between a and b
 long long int modulo(long long int a, long long int b);

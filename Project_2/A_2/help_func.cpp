@@ -1,5 +1,35 @@
 #include "help_func.h"
 
+double DiscreteFrechet(vector<vector<double>> a, vector<vector<double>> b){
+    vector<vector<double>> dists;
+    dists.resize(a.size(), vector<double>((b.size())));
+
+    for (int i = 0; i < a.size(); ++i) {
+        for (int j = 0; j < b.size(); ++j) {
+            dists[i][j] = euc_dist(a[i],b[j]); 
+        }
+    }
+
+    vector<vector<double>> c;
+    c.resize(a.size(), vector<double>((b.size())));
+
+    for (int i = 0; i < a.size(); ++i) {
+        for (int j = 0; j < b.size(); ++j) {
+            if(i == 0 && j == 0){
+                c[i][j] = dists[i][j];
+            }else if (i == 0 && j > 0){
+                c[i][j] = max(c[i][j-1],dists[i][j]);
+            }else if (i > 0 and j == 0){
+                c[i][j] = max(c[i-1][j],dists[i][j]);
+            }else{
+                c[i][j] = max(min(min(c[i-1][j], c[i-1][j-1]), c[i][j-1]), dists[i][j]);
+            }
+        }
+    }    
+
+    return c[a.size()-1][b.size()-1];
+}
+
 long long int modulo(long long int a, long long int b){
 
 	return (a % b + b) %b;

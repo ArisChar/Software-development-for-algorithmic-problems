@@ -115,6 +115,8 @@ double Point::getVal(int pos) { return values[pos]; }
 
 vector<double> Point::getCoord() { return values; }
 
+vector<vector<double>> Point::getCurve() { return curve; }
+
 void Point::print_point(){
     cout<<"To point me id "<<pointId <<" exei autes ths diastaseis:"<<endl;
 
