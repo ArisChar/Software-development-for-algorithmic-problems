@@ -1,1 +1,0 @@
-./main -i nasd_input.csv -q nasd_query.csv -o out 
