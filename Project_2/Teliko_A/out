@@ -1,0 +1,259 @@
+Algorithm: Hypercube
+--------------------------------
+Query: 1
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 74
+Distance: 120.737
+Nearest neighbor -2: 26
+Distance: 182.129
+Nearest neighbor -3: 3
+Distance: 195.451
+Nearest neighbor -4: 20
+Distance: 247.832
+Nearest neighbor -5: 8
+Distance: 345.638
+Nearest neighbor -6: 100
+Distance: 505.094
+Nearest neighbor -7: 52
+Distance: 974.593
+Nearest neighbor -8: 75
+Distance: 991.816
+Nearest neighbor -9: 6
+Distance: 2487.41
+Nearest neighbor -10: 79
+Distance: 5511.02
+
+ Total time taken: 0.0003008
+
+--------------------------------
+Query: 2
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 8
+Distance: 348.706
+Nearest neighbor -2: 3
+Distance: 410.093
+Nearest neighbor -3: 74
+Distance: 490.293
+Nearest neighbor -4: 26
+Distance: 552.96
+Nearest neighbor -5: 20
+Distance: 654.896
+Nearest neighbor -6: 52
+Distance: 783.857
+Nearest neighbor -7: 75
+Distance: 796.544
+Nearest neighbor -8: 100
+Distance: 838.691
+Nearest neighbor -9: 6
+Distance: 2692.11
+Nearest neighbor -10: 79
+Distance: 5857.59
+
+ Total time taken: 0.000187
+
+--------------------------------
+Query: 3
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 27
+Distance: 33.7924
+Nearest neighbor -2: 63
+Distance: 41.6222
+Nearest neighbor -3: 60
+Distance: 42.7746
+Nearest neighbor -4: 28
+Distance: 46.8801
+Nearest neighbor -5: 50
+Distance: 94.7696
+Nearest neighbor -6: 99
+Distance: 111.126
+Nearest neighbor -7: 55
+Distance: 172.511
+Nearest neighbor -8: 24
+Distance: 683.178
+Nearest neighbor -9: 51
+Distance: 1256.26
+Nearest neighbor -10: 23
+Distance: 2137.09
+
+ Total time taken: 0.0001884
+
+--------------------------------
+Query: 4
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 12
+Distance: 323.98
+Nearest neighbor -2: 57
+Distance: 421.637
+Nearest neighbor -3: 70
+Distance: 517.539
+Nearest neighbor -4: 33
+Distance: 637.905
+Nearest neighbor -5: 49
+Distance: 1160.26
+Nearest neighbor -6: 11
+Distance: 1359.96
+Nearest neighbor -7: 22
+Distance: 1605.91
+Nearest neighbor -8: 87
+Distance: 2212.98
+Nearest neighbor -9: 41
+Distance: 2889.44
+Nearest neighbor -10: 45
+Distance: 3004.37
+
+ Total time taken: 0.0001808
+
+--------------------------------
+Query: 5
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 64
+Distance: 24.9236
+Nearest neighbor -2: 19
+Distance: 31.1113
+Nearest neighbor -3: 62
+Distance: 36.0943
+Nearest neighbor -4: 31
+Distance: 38.7866
+Nearest neighbor -5: 72
+Distance: 55.5623
+Nearest neighbor -6: 14
+Distance: 63.1563
+Nearest neighbor -7: 35
+Distance: 553.826
+Nearest neighbor -8: 10
+Distance: 693.25
+Nearest neighbor -9: 82
+Distance: 696.478
+Nearest neighbor -10: 32
+Distance: 887.137
+
+ Total time taken: 0.0001805
+
+--------------------------------
+Query: 6
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 14
+Distance: 28.6686
+Nearest neighbor -2: 64
+Distance: 29.6396
+Nearest neighbor -3: 62
+Distance: 55.5083
+Nearest neighbor -4: 19
+Distance: 56.9022
+Nearest neighbor -5: 31
+Distance: 65.9882
+Nearest neighbor -6: 72
+Distance: 82.1767
+Nearest neighbor -7: 35
+Distance: 575.778
+Nearest neighbor -8: 10
+Distance: 712.488
+Nearest neighbor -9: 82
+Distance: 717.067
+Nearest neighbor -10: 32
+Distance: 907.89
+
+ Total time taken: 0.0001776
+
+--------------------------------
+Query: 7
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 46
+Distance: 550.241
+Nearest neighbor -2: 54
+Distance: 557.485
+Nearest neighbor -3: 38
+Distance: 621.281
+Nearest neighbor -4: 8
+Distance: 725.788
+Nearest neighbor -5: 43
+Distance: 736.658
+Nearest neighbor -6: 56
+Distance: 744.154
+Nearest neighbor -7: 13
+Distance: 890.118
+Nearest neighbor -8: 39
+Distance: 968.745
+Nearest neighbor -9: 44
+Distance: 992.777
+Nearest neighbor -10: 3
+Distance: 1003.93
+
+ Total time taken: 0.0001823
+
+-------------------------
+Query: 8
+Nearest neighbor -1: 71
+Distance: 245.057
+Nearest neighbor -2: 21
+Distance: 629.614
+Nearest neighbor -3: 81
+Distance: 678.6
+Nearest neighbor -4: 85
+Distance: 914.35
+Nearest neighbor -5: 34
+Distance: 999.207
+Nearest neighbor -6: 48
+Distance: 1005.35
+Nearest neighbor -7: 15
+Distance: 1016.49
+Nearest neighbor -8: 29
+Distance: 1030.45
+Nearest neighbor -9: 25
+Distance: 1050.92
+Nearest neighbor -10: 7
+Distance: 1073.66
+
+ Total time taken: 0.0002456
+
+--------------------------------
+Query: 9
+Ta 10 pio kontina shmeia einai :
+Nearest neighbor -1: 84
+Distance: 33.3724
+Nearest neighbor -2: 28
+Distance: 37.3029
+Nearest neighbor -3: 61
+Distance: 59.9012
+Nearest neighbor -4: 60
+Distance: 60.3412
+Nearest neighbor -5: 27
+Distance: 72.6879
+Nearest neighbor -6: 69
+Distance: 80.0397
+Nearest neighbor -7: 50
+Distance: 107.953
+Nearest neighbor -8: 24
+Distance: 628.168
+Nearest neighbor -9: 23
+Distance: 2085.44
+Nearest neighbor -10: 78
+Distance: 2086.16
+
+ Total time taken: 0.0001847
+
+-------------------------
+Query: 10
+Nearest neighbor -1: 93
+Distance: 10.9989
+Nearest neighbor -2: 35
+Distance: 15.7212
+Nearest neighbor -3: 89
+Distance: 16.1327
+Nearest neighbor -4: 68
+Distance: 66.8215
+Nearest neighbor -5: 58
+Distance: 85.6912
+Nearest neighbor -6: 67
+Distance: 118.536
+Nearest neighbor -7: 10
+Distance: 167.046
+Nearest neighbor -8: 32
+Distance: 339.942
+Nearest neighbor -9: 53
+Distance: 409.479
+Nearest neighbor -10: 14
+Distance: 602.268
+
+ Total time taken: 0.0001795
+

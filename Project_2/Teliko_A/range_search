@@ -1,0 +1,121 @@
+------------------------------
+Query: 1
+R-near neighbors: 
+Neighbor 0 id: 26 Distance: 14.4431
+Neighbor 1 id: 88 Distance: 28.76
+Neighbor 2 id: 59 Distance: 30.1566
+Neighbor 3 id: 67 Distance: 33.1909
+Neighbor 4 id: 66 Distance: 48.86
+Neighbor 5 id: 9 Distance: 49.5318
+Neighbor 6 id: 14 Distance: 52.0185
+------------------------------
+Query: 2
+R-near neighbors: 
+Neighbor 0 id: 36 Distance: 39.5207
+Neighbor 1 id: 41 Distance: 49.8197
+Neighbor 2 id: 100 Distance: 49.8318
+Neighbor 3 id: 19 Distance: 61.5328
+Neighbor 4 id: 23 Distance: 99.2994
+------------------------------
+Query: 3
+R-near neighbors: 
+Neighbor 0 id: 34 Distance: 7.48
+Neighbor 1 id: 48 Distance: 8.72549
+Neighbor 2 id: 31 Distance: 10.1723
+Neighbor 3 id: 72 Distance: 10.54
+Neighbor 4 id: 37 Distance: 16.3873
+Neighbor 5 id: 44 Distance: 39.9211
+Neighbor 6 id: 12 Distance: 164.869
+Neighbor 7 id: 33 Distance: 186.444
+Neighbor 8 id: 11 Distance: 189.539
+Neighbor 9 id: 79 Distance: 294.132
+------------------------------
+Query: 4
+R-near neighbors: 
+Neighbor 0 id: 1 Distance: 110.393
+Neighbor 1 id: 71 Distance: 128.39
+Neighbor 2 id: 87 Distance: 133.148
+Neighbor 3 id: 32 Distance: 135.569
+Neighbor 4 id: 82 Distance: 142.57
+Neighbor 5 id: 97 Distance: 148.243
+Neighbor 6 id: 92 Distance: 151.74
+Neighbor 7 id: 18 Distance: 152.818
+Neighbor 8 id: 69 Distance: 164.089
+Neighbor 9 id: 4 Distance: 167.606
+Neighbor 10 id: 25 Distance: 172.142
+Neighbor 11 id: 64 Distance: 177.293
+------------------------------
+Query: 5
+R-near neighbors: 
+Neighbor 0 id: 52 Distance: 9.7912
+Neighbor 1 id: 63 Distance: 11.2963
+Neighbor 2 id: 89 Distance: 24.9201
+Neighbor 3 id: 42 Distance: 28.8653
+Neighbor 4 id: 10 Distance: 36.55
+Neighbor 5 id: 90 Distance: 61.3201
+Neighbor 6 id: 51 Distance: 78.42
+Neighbor 7 id: 80 Distance: 123.346
+------------------------------
+Query: 6
+R-near neighbors: 
+Neighbor 0 id: 62 Distance: 6.72
+Neighbor 1 id: 81 Distance: 22.9161
+Neighbor 2 id: 93 Distance: 24.5299
+Neighbor 3 id: 77 Distance: 29.02
+Neighbor 4 id: 17 Distance: 32.68
+Neighbor 5 id: 53 Distance: 37.3
+Neighbor 6 id: 13 Distance: 42.6167
+Neighbor 7 id: 39 Distance: 54.8391
+Neighbor 8 id: 16 Distance: 66.7776
+------------------------------
+Query: 7
+R-near neighbors: 
+Neighbor 0 id: 13 Distance: 43.9067
+Neighbor 1 id: 39 Distance: 54.29
+Neighbor 2 id: 53 Distance: 55.18
+Neighbor 3 id: 17 Distance: 56.674
+Neighbor 4 id: 93 Distance: 62.178
+Neighbor 5 id: 81 Distance: 62.7124
+Neighbor 6 id: 16 Distance: 66.1876
+Neighbor 7 id: 77 Distance: 66.6075
+Neighbor 8 id: 62 Distance: 74.89
+------------------------------
+Query: 8
+R-near neighbors: 
+Neighbor 0 id: 58 Distance: 32.8362
+Neighbor 1 id: 96 Distance: 37.4015
+Neighbor 2 id: 84 Distance: 48.138
+Neighbor 3 id: 60 Distance: 48.9569
+Neighbor 4 id: 22 Distance: 49.3225
+Neighbor 5 id: 40 Distance: 58.6585
+Neighbor 6 id: 7 Distance: 58.7585
+Neighbor 7 id: 78 Distance: 70.9834
+------------------------------
+Query: 9
+R-near neighbors: 
+Neighbor 0 id: 61 Distance: 5.2476
+Neighbor 1 id: 65 Distance: 6.771
+Neighbor 2 id: 15 Distance: 8.84173
+Neighbor 3 id: 76 Distance: 11.5384
+Neighbor 4 id: 86 Distance: 12.5898
+Neighbor 5 id: 21 Distance: 12.67
+Neighbor 6 id: 54 Distance: 13.724
+Neighbor 7 id: 38 Distance: 14.299
+Neighbor 8 id: 68 Distance: 16.662
+Neighbor 9 id: 2 Distance: 36.2248
+Neighbor 10 id: 98 Distance: 45.126
+Neighbor 11 id: 83 Distance: 48.033
+Neighbor 12 id: 30 Distance: 83.789
+------------------------------
+Query: 10
+R-near neighbors: 
+Neighbor 0 id: 37 Distance: 3.3803
+Neighbor 1 id: 34 Distance: 17.7672
+Neighbor 2 id: 48 Distance: 17.977
+Neighbor 3 id: 72 Distance: 24.677
+Neighbor 4 id: 31 Distance: 24.6803
+Neighbor 5 id: 44 Distance: 27.868
+Neighbor 6 id: 12 Distance: 149.86
+Neighbor 7 id: 33 Distance: 171.463
+Neighbor 8 id: 11 Distance: 177.152
+Neighbor 9 id: 79 Distance: 284.752
