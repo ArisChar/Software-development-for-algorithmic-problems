@@ -1,0 +1,85 @@
+Algorithm: LSH_Frechet_Discrete
+-------------------------
+Query: 1
+Nearest neighbor-1: 5
+DistanceLSH:: 13.5
+Time of LSH is: 0.642897
+DistanceTrue: 9.78618
+True ID of point is: 39
+True Time is: 2.9596
+-------------------------
+Query: 2
+Nearest neighbor-1: 24
+DistanceLSH:: 17.1672
+Time of LSH is: 0.536242
+DistanceTrue: 17.1672
+True ID of point is: 24
+True Time is: 2.94645
+-------------------------
+Query: 3
+Nearest neighbor-1: 27
+DistanceLSH:: 3.4488
+Time of LSH is: 0.292455
+DistanceTrue: 3.4488
+True ID of point is: 27
+True Time is: 2.94706
+-------------------------
+Query: 4
+Nearest neighbor-1: 12
+DistanceLSH:: 27.694
+Time of LSH is: 0.642233
+DistanceTrue: 27.694
+True ID of point is: 12
+True Time is: 2.95252
+-------------------------
+Query: 5
+Nearest neighbor-1: 64
+DistanceLSH:: 2.5653
+Time of LSH is: 0.546518
+DistanceTrue: 2.5653
+True ID of point is: 64
+True Time is: 2.95401
+-------------------------
+Query: 6
+Nearest neighbor-1: 64
+DistanceLSH:: 3.27
+Time of LSH is: 0.555875
+DistanceTrue: 1.882
+True ID of point is: 14
+True Time is: 2.9598
+-------------------------
+Query: 7
+Nearest neighbor-1: 83
+DistanceLSH:: 41.1773
+Time of LSH is: 0.51621
+DistanceTrue: 38.4465
+True ID of point is: 43
+True Time is: 2.95802
+-------------------------
+Query: 8
+Nearest neighbor-1: 39
+DistanceLSH:: 14.8876
+Time of LSH is: 0.52228
+DistanceTrue: 14.8876
+True ID of point is: 39
+True Time is: 2.95483
+-------------------------
+Query: 9
+Nearest neighbor-1: 84
+DistanceLSH:: 3.01
+Time of LSH is: 0.342554
+DistanceTrue: 3.01
+True ID of point is: 84
+True Time is: 2.9599
+-------------------------
+Query: 10
+Nearest neighbor-1: 93
+DistanceLSH:: 1.194
+Time of LSH is: 0.550798
+DistanceTrue: 1.194
+True ID of point is: 93
+True Time is: 2.9478
+-------------------------
+tApproximateAverage: 0.514806
+tTrueAverage: 2.954
+MAF: 1.73751
