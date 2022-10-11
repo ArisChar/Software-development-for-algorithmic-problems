@@ -13,8 +13,8 @@ Impementation of K-Nearest Neighbor Algorithms LSH and Hypercube
     we compare the time series using Discrete Frechet and Continuous Frechet metric.    
 
 [Part 3](https://github.com/ArisChar/Software-development-for-algorithmic-problems/blob/main/project_3/ergasia3_2021.pdf): 
-  Stock price forecasting using LSTM recurrent neural network. 
-  Anomaly detection using a per-stock LSTM autoencoding neural network. 
-  Stock search and clustering based on time series representation derived from convolutional autoencoding. 
-  Comparison of search and clustering results with the original representation. 
-  Python 3 and the Keras programming interface on the TensorFlow neural network platform was used to implement the neural network.
+  Stock price forecasting using LSTM recurrent neural network.  
+  Anomaly detection using a per-stock LSTM autoencoding neural network.  
+  Stock search and clustering based on time series representation derived from convolutional autoencoding.  
+  Comparison of search and clustering results with the original representation.  
+  Python 3 and the Keras programming interface on the TensorFlow neural network platform was used to implement the neural network. 
